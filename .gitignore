@@ -1,0 +1,6 @@
+# generated data, can be recreated by the scripts
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
